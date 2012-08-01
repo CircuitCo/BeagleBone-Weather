@@ -1,0 +1,1 @@
+The BeagleBone Weather Cape provides weather data for the BeagleBone including temperature, barometric pressure, humidity, and ambient light. These weather input data can be accessed via I2C bus. The BeagleBone Weather Cape also features an LED to indicate that power is applied.
